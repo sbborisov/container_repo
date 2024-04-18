@@ -11,5 +11,5 @@ SELECT * FROM Sales_Data
 WHERE sales_date == '25-06-2022'
 
 
-Please not that since I did not manage to find any specific questions regarding what needs to be queried I wrote some basic queries
+Please note that since I did not manage to find any specific questions regarding what needs to be queried I wrote some basic queries
 to fetch data that I personally think the company would find useful.
