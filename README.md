@@ -2,6 +2,11 @@
 
 Here within are contained the different files (python, SQL and TXT) that relate to the assesment task given by Alchemy.
 
+### DISCLAIMER
+
+Please note that for actual file transfers, data transformations, data manipulation and quering of data (as per the assessment requirements) an actual AWS account has to be made with all the correct authorizations, credentials and policies.
+The code given is exemplary and needs to be modified to be successfully implemented.
+
 ## Installation
 
 For running the scripts you will need to do a pip install with the following libraries - pandas_redshift, boto3 and pandas. (You may have some of them already installed - do a double check.)
