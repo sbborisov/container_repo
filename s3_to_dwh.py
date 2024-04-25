@@ -25,7 +25,7 @@ pr.connect_to_redshift(dbname = response['dbname'],
                         host = response['host'],
                         port = response['port'],
                         user = response['user'],
-                        password = response['user'])
+                        password = response['password'])
 
 bucket_name = 's3-simeon-borisov-container'
 
